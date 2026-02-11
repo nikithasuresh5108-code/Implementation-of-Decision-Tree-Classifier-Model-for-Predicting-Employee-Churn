@@ -137,8 +137,8 @@ plt.show()
 
 ## Output:
 ![screenshot 1](https://github.com/user-attachments/assets/386d1931-0525-4313-9d5a-a21c35ba6983)
-![screenshot 2](https://github.com/user-attachments/assets/5bb3f091-55a5-4130-9dd7-5022340eb361)
 ![screenshot 3](https://github.com/user-attachments/assets/dfbf7534-ee47-4904-81da-c8bd70a95b94)
+![screenshot 2](https://github.com/user-attachments/assets/5bb3f091-55a5-4130-9dd7-5022340eb361)
 ![screenshot 4](https://github.com/user-attachments/assets/d625855e-034e-4ee5-80a3-9ea572166474)
 ![screenshot 5](https://github.com/user-attachments/assets/db3e4051-3198-488f-9272-bdf67e0b22ed)
 ![screenshot 6](https://github.com/user-attachments/assets/60efb0df-6d03-4663-a086-1a10a2a4109a)
